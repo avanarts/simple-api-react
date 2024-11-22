@@ -1,0 +1,1 @@
+This is an assignment practicing basic API calls using React.
